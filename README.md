@@ -1,16 +1,18 @@
-### Hi there 👋
+![Hello 👋🏻](https://hostylegh.com/assets/ccc.jpg?_nc_cat=111&_nc_sid=6e5ad9&_nc_eui2=AeE_CrW9KRX8cnTbzjLml9cZxQuFAC6_AHTFC4UALr8AdCKtDrQx8zqwbi1Y6V1hE9aHm5Y6Hl0A2rHZIkO-vg51&_nc_ohc=l9cOEur5u5kAX8aAi3j&_nc_ht=scontent.facc1-1.fna&oh=e8ebd78732b7c269f8099b836602c5f4&oe=5F6CDF70)
 
-<!--
-**hostylegh/hostylegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there !! 👋🏻,
+Welcome to hostylegh , You dont have to go far to find what matters , this is a platform that helps individual students and institutions to find hostels and manage hostels respectively with the help of data science algorithms 
+using technology to solve relational problems 
 
-Here are some ideas to get you started:
+## Hostylegh is an interactive platform (Mobile App) designed to help students make better decision on choosing a hostel across all tertiary institutions in Ghana
+## with the help of Data Science and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 📬 Get in touch
+
+- Website : [https://www.hostylegh.com] 
+- Twitter: [https://twitter.com/hostylegh][3]
+- Instagram:[https://www.instagram.com/hostylegh/]
+
